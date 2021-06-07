@@ -17,5 +17,5 @@ E를 통해 아이템을 획득하고, I키를 사용해 인벤토리 창을 열
 
 ## 순서도
 ![1](https://user-images.githubusercontent.com/84300945/120950926-ba49b280-c782-11eb-9e48-a25415da6646.PNG)
-![2](https://user-images.githubusercontent.com/84300945/120951105-11e81e00-c783-11eb-8b8c-976278140d69.PNG)
+![2](https://user-images.githubusercontent.com/84300945/120951208-48be3400-c783-11eb-9188-a96eead6d319.PNG)
 
