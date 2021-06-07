@@ -16,6 +16,5 @@ E를 통해 아이템을 획득하고, I키를 사용해 인벤토리 창을 열
 적을 제거하고 최종 목표인 식물을 채집해서 우주선에 도달하는 것이 게임의 목표
 
 ## 순서도
-![1](https://user-images.githubusercontent.com/84300945/120950926-ba49b280-c782-11eb-9e48-a25415da6646.PNG)
-![2](https://user-images.githubusercontent.com/84300945/120951283-70150100-c783-11eb-9c19-316bb799ddd6.PNG)
+![순서도](https://user-images.githubusercontent.com/84300945/120951333-90dd5680-c783-11eb-8731-75dc7f688982.PNG)
 
